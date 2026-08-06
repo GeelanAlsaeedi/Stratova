@@ -1,0 +1,9 @@
+.env
+.venv/
+.venv-1/
+__pycache__/
+chroma_db/
+*.pyc
+outputs/
+.venv-1_old_backup
+*.ipynb
